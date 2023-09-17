@@ -1,0 +1,11 @@
+.botonesitems{
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: column;
+ 
+}
+.button is-dark{
+    margin: 20px;
+}

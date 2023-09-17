@@ -1,0 +1,33 @@
+.masrtcart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    margin: 10px;
+    
+}
+.dvbotones{
+   
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+.contentcart{
+  
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: row;
+    gap: 10px;
+    margin: 10px;
+
+}
+.imgcart{
+    width: 75px;
+    height: 75px;
+}
